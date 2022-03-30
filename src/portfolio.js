@@ -23,26 +23,50 @@ const projects = [
   {
     name: 'Project 1',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'A Multipurpose web app for Company, built with Html, Scss, Javascript ',
+    stack: ['HTML', 'SASS', 'Javascript'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://zakirsoft.com/',
   },
   {
     name: 'Project 2',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Bestkit - Multipurpose Landing Page HTML Template',
+      stack: ['HTML', 'SASS', 'Javascript'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://bestkit.netlify.app/',
   },
   {
     name: 'Project 3',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Custar - React Next JS Landing Page Template',
+      stack: ['React', 'SASS', 'Next JS'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://custar-next.netlify.app/',
+  },
+  {
+    name: 'Project 4',
+    description:
+      'Custar - App, Software & SaaS Landing Templates',
+      stack: ['HTML', 'SASS', 'Javascript'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://finestdevs.com/demos/custar-html',
+  },
+  {
+    name: 'Project 5',
+    description:
+      'Fastland - React Gatsby JS Landing Page Template',
+      stack: ['React', 'SASS', 'Gatsby JS'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://fastland-gatsby.netlify.app/',
+  },
+  {
+    name: 'Project 6',
+    description:
+      'A single-page web app for client, built with React Next.js, and SCSS',
+      stack: ['React', 'SASS', 'Next JS'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://bouldbound.netlify.app/',
   },
 ]
 
