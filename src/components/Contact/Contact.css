@@ -1,3 +1,20 @@
 .contact {
   flex-direction: column;
 }
+
+.section__text{
+  text-align: center;
+  padding-bottom: 30px;
+  max-width: 90%;
+}
+
+@media (min-width:575px) {
+  .section__text{
+    max-width: 70%;
+  }
+}
+@media (min-width:992px) {
+  .section__text{
+    max-width: 50%;
+  }
+}
