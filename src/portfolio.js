@@ -68,6 +68,30 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://bouldbound.netlify.app/',
   },
+  {
+    name: 'Project 7',
+    description:
+      'Kevin – Personal Portfolio is a HTML Template. It is designed with modern looks, clean ui and 6 different homepages',
+      stack: ['HTML', 'SASS', 'Javascript'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://kevin-html.netlify.app/',
+  },
+  {
+    name: 'Project 8',
+    description:
+    'Clicon - Multipurpose eCommerce HTML Template',
+      stack: ['HTML', 'SASS', 'Javascript'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://clicon-html.netlify.app/',
+  },
+  {
+    name: 'Project 9',
+    description:
+    'Poco - Bootstrap 4 Agency HTML Template',
+      stack: ['HTML', 'SASS', 'Javascript'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://poco-html.netlify.app/',
+  },
 ]
 
 const skills = [
