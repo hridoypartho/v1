@@ -1,15 +1,15 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: '#',
-  title: 'HP.',
+  title: 'devPartho.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Hridoy Partho',
+  name: 'Partho',
   role: 'Front End Engineer',
   description:
-    'I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, ThemeForest products at',
+    'I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, Part-Time ThemeForest products at',
   resume: './resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/hriody-halder-partho-0a23151b9/',
@@ -32,7 +32,7 @@ const projects = [
     name: 'Project 2',
     description:
       'Bestkit - Multipurpose Landing Page HTML Template',
-      stack: ['HTML', 'SASS', 'Javascript'],
+    stack: ['HTML', 'SASS', 'Javascript'],
     sourceCode: 'https://github.com',
     livePreview: 'https://bestkit.netlify.app/',
   },
@@ -40,7 +40,7 @@ const projects = [
     name: 'Project 3',
     description:
       'Custar - React Next JS Landing Page Template',
-      stack: ['React', 'SASS', 'Next JS'],
+    stack: ['React', 'SASS', 'Next JS'],
     sourceCode: 'https://github.com',
     livePreview: 'https://custar-next.netlify.app/',
   },
@@ -48,7 +48,7 @@ const projects = [
     name: 'Project 4',
     description:
       'Custar - App, Software & SaaS Landing Templates',
-      stack: ['HTML', 'SASS', 'Javascript'],
+    stack: ['HTML', 'SASS', 'Javascript'],
     sourceCode: 'https://github.com',
     livePreview: 'https://finestdevs.com/demos/custar-html',
   },
@@ -56,7 +56,7 @@ const projects = [
     name: 'Project 5',
     description:
       'Fastland - React Gatsby JS Landing Page Template',
-      stack: ['React', 'SASS', 'Gatsby JS'],
+    stack: ['React', 'SASS', 'Gatsby JS'],
     sourceCode: 'https://github.com',
     livePreview: 'https://fastland-gatsby.netlify.app/',
   },
@@ -64,7 +64,7 @@ const projects = [
     name: 'Project 6',
     description:
       'A single-page web app for client, built with React Next.js, and SCSS',
-      stack: ['React', 'SASS', 'Next JS'],
+    stack: ['React', 'SASS', 'Next JS'],
     sourceCode: 'https://github.com',
     livePreview: 'https://bouldbound.netlify.app/',
   },
@@ -72,23 +72,23 @@ const projects = [
     name: 'Project 7',
     description:
       'Kevin – Personal Portfolio is a HTML Template. It is designed with modern looks, clean ui and 6 different homepages',
-      stack: ['HTML', 'SASS', 'Javascript'],
+    stack: ['HTML', 'SASS', 'Javascript'],
     sourceCode: 'https://github.com',
     livePreview: 'https://kevin-html.netlify.app/',
   },
   {
     name: 'Project 8',
     description:
-    'Clicon - Multipurpose eCommerce HTML Template',
-      stack: ['HTML', 'SASS', 'Javascript'],
+      'Clicon - Multipurpose eCommerce HTML Template',
+    stack: ['HTML', 'SASS', 'Javascript'],
     sourceCode: 'https://github.com',
     livePreview: 'https://clicon-html.netlify.app/',
   },
   {
     name: 'Project 9',
     description:
-    'Poco - Bootstrap 4 Agency HTML Template',
-      stack: ['HTML', 'SASS', 'Javascript'],
+      'Poco - Bootstrap 4 Agency HTML Template',
+    stack: ['HTML', 'SASS', 'Javascript'],
     sourceCode: 'https://github.com',
     livePreview: 'https://poco-html.netlify.app/',
   },
